@@ -1,0 +1,1 @@
+"""Exact middle-factor analysis."""

@@ -1,0 +1,646 @@
+{
+  "complete": true,
+  "rank": 52,
+  "nonzero_fourier_terms": 2071747968,
+  "mean": {
+    "numerator": 3,
+    "denominator": 2199023255552,
+    "text": "3/2199023255552"
+  },
+  "local_key_spectrum_inverse_checks": 128,
+  "surviving_old_g_streams": 29490,
+  "connector_key_projection_rank": 21,
+  "normalized_outer_key_projection_rank": 31,
+  "basis": [
+    {
+      "index": 0,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0000000000005000",
+      "mask": "0x50000000000000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 2199023255552,
+        "text": "3/2199023255552"
+      },
+      "weight": 39.415037499278846
+    },
+    {
+      "index": 1,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0000000050000000",
+      "mask": "0x500000000000000000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 2199023255552,
+        "text": "3/2199023255552"
+      },
+      "weight": 39.415037499278846
+    },
+    {
+      "index": 2,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0005000000050005",
+      "mask": "0x50000000500050000000000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 2199023255552,
+        "text": "3/2199023255552"
+      },
+      "weight": 39.415037499278846
+    },
+    {
+      "index": 3,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0050005000500000",
+      "mask": "0x500050005000000000000000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 2199023255552,
+        "text": "3/2199023255552"
+      },
+      "weight": 39.415037499278846
+    },
+    {
+      "index": 4,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0500050000000500",
+      "mask": "0x5000500000005000000000000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 2199023255552,
+        "text": "3/2199023255552"
+      },
+      "weight": 39.415037499278846
+    },
+    {
+      "index": 5,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0001000000010001",
+      "mask": "0x10000000100010000000000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 4398046511104,
+        "text": "3/4398046511104"
+      },
+      "weight": 40.415037499278846
+    },
+    {
+      "index": 6,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0002000000020002",
+      "mask": "0x20000000200020000000000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 4398046511104,
+        "text": "3/4398046511104"
+      },
+      "weight": 40.415037499278846
+    },
+    {
+      "index": 7,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0010001000100000",
+      "mask": "0x100010001000000000000000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 4398046511104,
+        "text": "3/4398046511104"
+      },
+      "weight": 40.415037499278846
+    },
+    {
+      "index": 8,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0020002000200000",
+      "mask": "0x200020002000000000000000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 4398046511104,
+        "text": "3/4398046511104"
+      },
+      "weight": 40.415037499278846
+    },
+    {
+      "index": 9,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0100010000000100",
+      "mask": "0x1000100000001000000000000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 4398046511104,
+        "text": "3/4398046511104"
+      },
+      "weight": 40.415037499278846
+    },
+    {
+      "index": 10,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0200020000000200",
+      "mask": "0x2000200000002000000000000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 4398046511104,
+        "text": "3/4398046511104"
+      },
+      "weight": 40.415037499278846
+    },
+    {
+      "index": 11,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0000000000001000",
+      "mask": "0x10000000000000000000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 2199023255552,
+        "text": "1/2199023255552"
+      },
+      "weight": 41.0
+    },
+    {
+      "index": 12,
+      "connector_key_mask": "0x0000000000000000",
+      "normalized_outer_key_mask": "0x0000000010000000",
+      "mask": "0x100000000000000000000000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 2199023255552,
+        "text": "1/2199023255552"
+      },
+      "weight": 41.0
+    },
+    {
+      "index": 13,
+      "connector_key_mask": "0x1010000001100000",
+      "normalized_outer_key_mask": "0x0000000000501100",
+      "mask": "0x5011001010000001100000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 1125899906842624,
+        "text": "1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 14,
+      "connector_key_mask": "0x1040000001400000",
+      "normalized_outer_key_mask": "0x0000000000501100",
+      "mask": "0x5011001040000001400000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 1125899906842624,
+        "text": "1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 15,
+      "connector_key_mask": "0x4010000004100000",
+      "normalized_outer_key_mask": "0x0000000000501400",
+      "mask": "0x5014004010000004100000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 1125899906842624,
+        "text": "1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 16,
+      "connector_key_mask": "0x5500050005550000",
+      "normalized_outer_key_mask": "0x0000011000010100",
+      "mask": "0x110000101005500050005550000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 17,
+      "connector_key_mask": "0x5500050005550000",
+      "normalized_outer_key_mask": "0x0000011000020100",
+      "mask": "0x110000201005500050005550000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 18,
+      "connector_key_mask": "0x5500050005550000",
+      "normalized_outer_key_mask": "0x0000011000040100",
+      "mask": "0x110000401005500050005550000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 19,
+      "connector_key_mask": "0x5500050005550000",
+      "normalized_outer_key_mask": "0x0000012000010100",
+      "mask": "0x120000101005500050005550000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 20,
+      "connector_key_mask": "0x5500050005550000",
+      "normalized_outer_key_mask": "0x0000017000010100",
+      "mask": "0x170000101005500050005550000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 21,
+      "connector_key_mask": "0x5500050005550000",
+      "normalized_outer_key_mask": "0x0000021000010200",
+      "mask": "0x210000102005500050005550000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 22,
+      "connector_key_mask": "0x1000110000010000",
+      "normalized_outer_key_mask": "0x0000050000011001",
+      "mask": "0x500000110011000110000010000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 1125899906842624,
+        "text": "1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 23,
+      "connector_key_mask": "0x4000410000010000",
+      "normalized_outer_key_mask": "0x0000050000011001",
+      "mask": "0x500000110014000410000010000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 24,
+      "connector_key_mask": "0x1000140000040000",
+      "normalized_outer_key_mask": "0x0000050000041004",
+      "mask": "0x500000410041000140000040000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 25,
+      "connector_key_mask": "0x5500050005550000",
+      "normalized_outer_key_mask": "0x0000071000010700",
+      "mask": "0x710000107005500050005550000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 26,
+      "connector_key_mask": "0x1000110000040000",
+      "normalized_outer_key_mask": "0x0001050000041004",
+      "mask": "0x10500000410041000110000040000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 1125899906842624,
+        "text": "1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 27,
+      "connector_key_mask": "0x1000140000010000",
+      "normalized_outer_key_mask": "0x0001050000041004",
+      "mask": "0x10500000410041000140000010000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 28,
+      "connector_key_mask": "0x2000220000020000",
+      "normalized_outer_key_mask": "0x0001050000041004",
+      "mask": "0x10500000410042000220000020000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 29,
+      "connector_key_mask": "0x2000270000020000",
+      "normalized_outer_key_mask": "0x0001050000041004",
+      "mask": "0x10500000410042000270000020000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 30,
+      "connector_key_mask": "0x1010000004100000",
+      "normalized_outer_key_mask": "0x0100010000501400",
+      "mask": "0x1000100005014001010000004100000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 31,
+      "connector_key_mask": "0x4010000001100000",
+      "normalized_outer_key_mask": "0x0100010000501400",
+      "mask": "0x1000100005014004010000001100000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 32,
+      "connector_key_mask": "0x2020000002200000",
+      "normalized_outer_key_mask": "0x0100010010500400",
+      "mask": "0x1000100105004002020000002200000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 33,
+      "connector_key_mask": "0x7020000002200000",
+      "normalized_outer_key_mask": "0x0100010010500400",
+      "mask": "0x1000100105004007020000002200000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 1125899906842624,
+        "text": "-1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 34,
+      "connector_key_mask": "0x2220200000000000",
+      "normalized_outer_key_mask": "0x0101015000510104",
+      "mask": "0x1010150005101042220200000000000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 1125899906842624,
+        "text": "1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 35,
+      "connector_key_mask": "0x2270200000000000",
+      "normalized_outer_key_mask": "0x0101015000510104",
+      "mask": "0x1010150005101042270200000000000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 1125899906842624,
+        "text": "1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 36,
+      "connector_key_mask": "0x2720200000000000",
+      "normalized_outer_key_mask": "0x0101015000510104",
+      "mask": "0x1010150005101042720200000000000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 1125899906842624,
+        "text": "1/1125899906842624"
+      },
+      "weight": 50.0
+    },
+    {
+      "index": 37,
+      "connector_key_mask": "0x1110100000000000",
+      "normalized_outer_key_mask": "0x0100015000501101",
+      "mask": "0x1000150005011011110100000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 4503599627370496,
+        "text": "3/4503599627370496"
+      },
+      "weight": 50.415037499278846
+    },
+    {
+      "index": 38,
+      "connector_key_mask": "0x1110100000000000",
+      "normalized_outer_key_mask": "0x0101015000511104",
+      "mask": "0x1010150005111041110100000000000",
+      "coefficient": {
+        "numerator": 3,
+        "denominator": 4503599627370496,
+        "text": "3/4503599627370496"
+      },
+      "weight": 50.415037499278846
+    },
+    {
+      "index": 39,
+      "connector_key_mask": "0x5010010000000000",
+      "normalized_outer_key_mask": "0x0000001000000105",
+      "mask": "0x10000001055010010000000000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 2251799813685248,
+        "text": "1/2251799813685248"
+      },
+      "weight": 51.0
+    },
+    {
+      "index": 40,
+      "connector_key_mask": "0x1010050000000000",
+      "normalized_outer_key_mask": "0x0000005000000101",
+      "mask": "0x50000001011010050000000000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 2251799813685248,
+        "text": "1/2251799813685248"
+      },
+      "weight": 51.0
+    },
+    {
+      "index": 41,
+      "connector_key_mask": "0x1000010005500000",
+      "normalized_outer_key_mask": "0x0000007000200501",
+      "mask": "0x70002005011000010005500000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 2251799813685248,
+        "text": "1/2251799813685248"
+      },
+      "weight": 51.0
+    },
+    {
+      "index": 42,
+      "connector_key_mask": "0x1000110000010000",
+      "normalized_outer_key_mask": "0x0000010000011001",
+      "mask": "0x100000110011000110000010000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 2251799813685248,
+        "text": "1/2251799813685248"
+      },
+      "weight": 51.0
+    },
+    {
+      "index": 43,
+      "connector_key_mask": "0x0500100000010000",
+      "normalized_outer_key_mask": "0x0000050000110501",
+      "mask": "0x500001105010500100000010000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 2251799813685248,
+        "text": "-1/2251799813685248"
+      },
+      "weight": 51.0
+    },
+    {
+      "index": 44,
+      "connector_key_mask": "0x1001010001000000",
+      "normalized_outer_key_mask": "0x0000050000150505",
+      "mask": "0x500001505051001010001000000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 2251799813685248,
+        "text": "1/2251799813685248"
+      },
+      "weight": 51.0
+    },
+    {
+      "index": 45,
+      "connector_key_mask": "0x1004010001000000",
+      "normalized_outer_key_mask": "0x0000050000150505",
+      "mask": "0x500001505051004010001000000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 2251799813685248,
+        "text": "1/2251799813685248"
+      },
+      "weight": 51.0
+    },
+    {
+      "index": 46,
+      "connector_key_mask": "0x1100410000000000",
+      "normalized_outer_key_mask": "0x0001000000110101",
+      "mask": "0x10000001101011100410000000000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 2251799813685248,
+        "text": "1/2251799813685248"
+      },
+      "weight": 51.0
+    },
+    {
+      "index": 47,
+      "connector_key_mask": "0x2002020002000000",
+      "normalized_outer_key_mask": "0x0010051010451505",
+      "mask": "0x100510104515052002020002000000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 2251799813685248,
+        "text": "-1/2251799813685248"
+      },
+      "weight": 51.0
+    },
+    {
+      "index": 48,
+      "connector_key_mask": "0x1010050000000000",
+      "normalized_outer_key_mask": "0x0000005000000102",
+      "mask": "0x50000001021010050000000000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 4503599627370496,
+        "text": "-1/4503599627370496"
+      },
+      "weight": 52.0
+    },
+    {
+      "index": 49,
+      "connector_key_mask": "0x1010050000000000",
+      "normalized_outer_key_mask": "0x0000005000000201",
+      "mask": "0x50000002011010050000000000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 4503599627370496,
+        "text": "1/4503599627370496"
+      },
+      "weight": 52.0
+    },
+    {
+      "index": 50,
+      "connector_key_mask": "0x0500000002250000",
+      "normalized_outer_key_mask": "0x0000015000510004",
+      "mask": "0x150005100040500000002250000",
+      "coefficient": {
+        "numerator": 1,
+        "denominator": 4503599627370496,
+        "text": "1/4503599627370496"
+      },
+      "weight": 52.0
+    },
+    {
+      "index": 51,
+      "connector_key_mask": "0x5200050000020000",
+      "normalized_outer_key_mask": "0x0000050000150105",
+      "mask": "0x500001501055200050000020000",
+      "coefficient": {
+        "numerator": -1,
+        "denominator": 4503599627370496,
+        "text": "-1/4503599627370496"
+      },
+      "weight": 52.0
+    }
+  ],
+  "selection": "exact complete-support minimum-weight filtration; Cartesian bases and cheapest single-column deviations; no truncated candidate pool",
+  "coefficient_scope": "R(c,k) before physical master-key M^T mapping and round-constant phases",
+  "full_key_only_fourteen_layer_rank": 110,
+  "full_key_only_fourteen_layer_support_size": 154517027144836644864,
+  "full_key_only_rank_justification": "two disjoint R factors on (rk1,rk2) and (rk4,rk5), plus the disjoint three-bit physical middle factor on each side",
+  "elapsed_seconds": 4.172214489000001
+}
